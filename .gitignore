@@ -1,6 +1,9 @@
 # zip files
 *.zip
 
+# large files
+"src/SDK1.2.0/fw_stress_test_nand_4k.ubifs"
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
